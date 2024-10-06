@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Vitória-régia",
+    "price": 45.0,
+    "description": "A large aquatic plant known for its giant floating leaves. Symbol of the Amazon.",
+    "category": ["aquatic", "decorative"],
+    "imageUrl": "vitoria-regia.jpg",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Jaborandi",
+    "price": 60.0,
+    "description": "A medicinal plant used for its healing properties, commonly found in the Amazon rainforest.",
+    "category": ["medicinal", "air-purifying"],
+    "imageUrl": "jaborandi.jpg",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "name": "Castanheira-do-Brasil",
+    "price": 80.0,
+    "description": "A tall tree that produces Brazil nuts, a nutritious export product.",
+    "category": ["edible", "tree"],
+    "imageUrl": "castanheira.jpg",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "name": "Guaraná",
+    "price": 35.0,
+    "description": "A climbing plant known for its seeds that are used to produce guaraná beverages.",
+    "category": ["edible", "climber"],
+    "imageUrl": "guarana.jpg",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "Açaí",
+    "price": 50.0,
+    "description": "A palm tree known for its small dark fruits, used to make açaí bowls.",
+    "category": ["edible", "tree"],
+    "imageUrl": "acai.jpg",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "name": "Buriti",
+    "price": 40.0,
+    "description": "A palm tree with orange fruits, used in oils and as edible fruit.",
+    "category": ["edible", "tree"],
+    "imageUrl": "buriti.jpg",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "name": "Copaíba",
+    "price": 55.0,
+    "description": "A tree whose oil is widely used for medicinal purposes.",
+    "category": ["medicinal", "tree"],
+    "imageUrl": "copaiba.jpg",
+    "stock": 7
+  },
+  {
+    "id": 8,
+    "name": "Bromélia",
+    "price": 25.0,
+    "description": "A colorful decorative plant known for its exotic appearance.",
+    "category": ["decorative"],
+    "imageUrl": "bromelia.jpg",
+    "stock": 18
+  },
+  {
+    "id": 9,
+    "name": "Muirapiranga",
+    "price": 70.0,
+    "description": "A tree known for its hard, reddish wood, often used in construction.",
+    "category": ["tree"],
+    "imageUrl": "muirapiranga.jpg",
+    "stock": 4
+  },
+  {
+    "id": 10,
+    "name": "Andiroba",
+    "price": 65.0,
+    "description": "A tree whose oil is used in cosmetics and traditional medicine.",
+    "category": ["medicinal", "tree"],
+    "imageUrl": "andiroba.jpg",
+    "stock": 9
+  },
+  {
+    "id": 11,
+    "name": "Pau-rosa",
+    "price": 100.0,
+    "description": "A tree known for its fragrant wood, used in perfumes.",
+    "category": ["fragrant", "tree"],
+    "imageUrl": "pau-rosa.jpg",
+    "stock": 3
+  },
+  {
+    "id": 12,
+    "name": "Ipê-amarelo",
+    "price": 90.0,
+    "description": "A beautiful tree with yellow flowers, often used in urban landscaping.",
+    "category": ["decorative", "tree"],
+    "imageUrl": "ipe-amarelo.jpg",
+    "stock": 6
+  },
+  {
+    "id": 13,
+    "name": "Ucuuba",
+    "price": 55.0,
+    "description": "A tree whose seeds are used to make butter for cosmetics.",
+    "category": ["medicinal", "cosmetic"],
+    "imageUrl": "ucuuba.jpg",
+    "stock": 7
+  },
+  {
+    "id": 14,
+    "name": "Seringueira",
+    "price": 85.0,
+    "description": "A tree known for its latex, used in rubber production.",
+    "category": ["industrial", "tree"],
+    "imageUrl": "seringueira.jpg",
+    "stock": 5
+  },
+  {
+    "id": 15,
+    "name": "Cacau",
+    "price": 75.0,
+    "description": "The source of cocoa beans used to produce chocolate.",
+    "category": ["edible", "tree"],
+    "imageUrl": "cacau.jpg",
+    "stock": 12
+  },
+  {
+    "id": 16,
+    "name": "Tucumã",
+    "price": 45.0,
+    "description": "A palm tree with edible fruits rich in vitamins.",
+    "category": ["edible", "tree"],
+    "imageUrl": "tucuma.jpg",
+    "stock": 14
+  },
+  {
+    "id": 17,
+    "name": "Apuí",
+    "price": 30.0,
+    "description": "A fast-growing plant known for covering and strangling other trees.",
+    "category": ["climber"],
+    "imageUrl": "apui.jpg",
+    "stock": 20
+  },
+  {
+    "id": 18,
+    "name": "Sumaúma",
+    "price": 120.0,
+    "description": "A giant tree with a massive trunk, often referred to as the 'mother of the forest'.",
+    "category": ["tree"],
+    "imageUrl": "sumauma.jpg",
+    "stock": 2
+  },
+  {
+    "id": 19,
+    "name": "Murici",
+    "price": 50.0,
+    "description": "A tree with small, yellow fruits used in juices and traditional cuisine.",
+    "category": ["edible", "tree"],
+    "imageUrl": "murici.jpg",
+    "stock": 10
+  },
+  {
+    "id": 20,
+    "name": "Paxiúba",
+    "price": 40.0,
+    "description": "A palm tree with a flexible trunk, often used in local construction.",
+    "category": ["tree"],
+    "imageUrl": "paxiuba.jpg",
+    "stock": 7
+  },
+  {
+    "id": 21,
+    "name": "Jatobá",
+    "price": 65.0,
+    "description": "A tree with hard wood and edible fruits, known for its medicinal properties.",
+    "category": ["medicinal", "edible"],
+    "imageUrl": "jatoba.jpg",
+    "stock": 9
+  },
+  {
+    "id": 22,
+    "name": "Tucupi",
+    "price": 25.0,
+    "description": "A plant used to make a traditional Amazonian sauce from its roots.",
+    "category": ["edible", "medicinal"],
+    "imageUrl": "tucupi.jpg",
+    "stock": 13
+  },
+  {
+    "id": 23,
+    "name": "Cupuaçu",
+    "price": 55.0,
+    "description": "A tree known for its large, flavorful fruits, used in sweets and drinks.",
+    "category": ["edible", "tree"],
+    "imageUrl": "cupuacu.jpg",
+    "stock": 11
+  },
+  {
+    "id": 24,
+    "name": "Pupunha",
+    "price": 40.0,
+    "description": "A palm tree with edible fruits and seeds, often used in traditional dishes.",
+    "category": ["edible", "tree"],
+    "imageUrl": "pupunha.jpg",
+    "stock": 12
+  },
+  {
+    "id": 25,
+    "name": "Urucum",
+    "price": 35.0,
+    "description": "A plant used to produce natural red dye, commonly used in food coloring.",
+    "category": ["industrial", "edible"],
+    "imageUrl": "urucum.jpg",
+    "stock": 17
+  },
+  {
+    "id": 26,
+    "name": "Paricá",
+    "price": 90.0,
+    "description": "A large tree used in traditional medicine and for wood production.",
+    "category": ["medicinal", "tree"],
+    "imageUrl": "parica.jpg",
+    "stock": 3
+  },
+  {
+    "id": 27,
+    "name": "Guarajuba",
+    "price": 35.0,
+    "description": "A shrub whose leaves are used for medicinal tea.",
+    "category": ["medicinal"],
+    "imageUrl": "guarajuba.jpg",
+    "stock": 16
+  },
+  {
+    "id": 28,
+    "name": "Jenipapo",
+    "price": 50.0,
+    "description": "A tree with fruit that is used in beverages and natural dye production.",
+    "category": ["edible", "industrial"],
+    "imageUrl": "jenipapo.jpg",
+    "stock": 9
+  },
+  {
+    "id": 29,
+    "name": "Pequi",
+    "price": 35.0,
+    "description": "A tree with spiny fruits used in traditional cooking, especially in northern Brazil.",
+    "category": ["edible", "tree"],
+    "imageUrl": "pequi.jpg",
+    "stock": 13
+  },
+  {
+    "id": 30,
+    "name": "Ipê-roxo",
+    "price": 95.0,
+    "description": "A tree with purple flowers, often planted for decorative purposes.",
+    "category": ["decorative", "tree"],
+    "imageUrl": "ipe-roxo.jpg",
+    "stock": 4
+  }
+]

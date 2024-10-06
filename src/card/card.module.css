@@ -1,0 +1,18 @@
+.card {
+    display: flex;                  /* Habilita o Flexbox */
+    flex-wrap: wrap;               /* Permite que os itens quebrem para a próxima linha */
+    justify-content: space-between; /* Espaça os itens igualmente */
+}
+
+.plantItem {
+    flex: 1 1 calc(40% - 20px); /* Cada item ocupará 33.33% da largura total menos margem */
+    box-sizing: border-box;         /* Inclui o padding e a borda no cálculo da largura total */
+    margin: 20px;                   /* Espaçamento entre os itens */
+    border: 1px solid #ccc;         /* Borda opcional para os itens */
+    border-radius: 8px;             /* Adiciona bordas arredondadas */
+    text-align: center;              /* Centraliza o texto */
+}
+
+.plantStyle{
+    border-radius: 1rem;
+}
